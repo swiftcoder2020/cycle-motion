@@ -137,17 +137,21 @@ width="50px" height="50px" />
 
 # Testing
 
+As standard with any development into a website, the first step subsequent to the conclusion of the construction is to check using a variety of technical testing tools (and this time includes two additions of JSHint and PEP8) which are split into subsections:
+
 ## W3C Validator Tools
 
+The basic methodology for checking into any form of errors commences by utilising the [W3C Markup Validation Service](https://validator.w3.org/) against all my HTML webpages of this project.
 
+The next validation tool is to utilise the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) which checks into the CSS styling of the project's webpages.
 
 ## JSHint
 
+[JSHint](https://www.jshint.com) is a tool that assists in the quality of JavaScript by detecting errors and potential problems within the code.
 
+## PEP8
 
-## PEP8 Online
-
-
+[PEP8](https://www.python.org/dev/peps/pep-0008) is a website that provides the styling conventions or best practices into the Python code which will be used within this project.
 
 ## Responsive Tools
 
