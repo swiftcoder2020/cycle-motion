@@ -163,15 +163,11 @@ width="50px" height="50px" />
 
 # Deployment
 
-Given that the deployment of the previous second milestone project was based on GitHub Pages, 
-which allows the hosting of static websites, the learning experience and skills of the 
-subsequent module into Back-end Development have progressively transitioned whereby the language 
-of Python will be adopted in this third milestone project therefore the hosting provider of 
-Heroku is necessary as Python cannot be hosted on GitHub Pages.
+Given that the deployment of the previous second milestone project was based on GitHub Pages, which allows the hosting of static websites, the learning experience and skills of the subsequent module into Back-end Development have progressively transitioned whereby the language of Python will be adopted in this third milestone project therefore the hosting provider of Heroku is necessary as Python cannot be hosted on GitHub Pages.
 
 ## Initial Deployment
 
-The development into this third milestone project had utilised the IDE of [GitPod](https://www.gitpod.io) which was subsequently pushed to the development community of [GitHub](https://www.github.com) and finally deployed using the recommended hosting provider of [Heroku](https://www.heroku.com). As a result of this, the following steps should be taken as specified below:
+The development into this third milestone project has utilised the IDE of [GitPod](https://www.gitpod.io) which was subsequently pushed to the development community of [GitHub](https://www.github.com) and finally deployed using the recommended hosting provider of [Heroku](https://www.heroku.com). As a result of this, the following steps should be taken as specified below:
 
 1. Create a file entitled as `requirements.txt` using the command of `pip3 freeze --local > requirements.txt` within the terminal of GitPod.
 2. Using the same GitPod terminal, create a `Procfile` via the command of `echo web: python app.py > Procfile`.
@@ -194,15 +190,37 @@ The development into this third milestone project had utilised the IDE of [GitPo
 
 ## Fork a Repository
 
+Should you wish to create a duplicate copy of a repository, the following simple steps is to be taken:
 
+1. Log in to GitHub
+2. Within GitHub, direct yourself to [swiftcoder2020/cycle-motion](https://github.com/swiftcoder2020/cycle-motion)
+3. Navigate to the top right corner and click "Fork"
 
 ## Clone a Respository
 
+To clone a repository, the instructions are as follows:
+
+1. Log in to GitHub
+2. Fork the repository of swiftcoder2020/cycle-motion using the simple steps of [Fork a Repository](#fork-a-repository) as aforementioned in the previous section above.
+3. Below the name of the repository and above the list of files, click "Code"
+4. Choose if you want to clone using HTTPS, SSH or GitHub CLI, then click the copy button to the right
+5. Open Git Bash
+6. Change the directory to where you want your clone to go
+7. Type "git clone" and then paste the URL you copied in step 4
+8. Press Enter to generate your clone
 
 
 ## Generate a Local Clone
 
+The following steps should be processed in order to 
 
+1. Firstly, log in to GitHub
+2. Again, below the name of the repository and above the list of files, click "Code"
+3. Similar to point 4 of 'Clone a Repository', only this time you should clone the repository using HTTPS and click on the icon to copy the link.
+4. Next, open Git Bash
+5. Amend the current working directory to the new location, where you want the cloned directory to be.
+6. Type `git clone` and then after, paste the copied URL from step 4
+7. Press the Enter button and your local clone will be created. 
 
 # Credits
 
