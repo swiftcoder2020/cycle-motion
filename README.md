@@ -128,7 +128,8 @@
 
 # Technologies Utilised
 
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5 logo" width="50px" height="50px" />  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3 logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo"
+width="50px" height="50px" />
 
 # Project Bugs and Solutions
 
@@ -162,9 +163,34 @@
 
 # Deployment
 
+Given that the deployment of the previous second milestone project was based on GitHub Pages, 
+which allows the hosting of static websites, the learning experience and skills of the 
+subsequent module into Back-end Development have progressively transitioned whereby the language 
+of Python will be adopted in this third milestone project therefore the hosting provider of 
+Heroku is necessary as Python cannot be hosted on GitHub Pages.
+
 ## Initial Deployment
 
+The development into this third milestone project had utilised the IDE of [GitPod](https://www.gitpod.io) which was subsequently pushed to the development community of [GitHub](https://www.github.com) and finally deployed using the recommended hosting provider of [Heroku](https://www.heroku.com). As a result of this, the following steps should be taken as specified below:
 
+1. Create a file entitled as `requirements.txt` using the command of `pip3 freeze --local > requirements.txt` within the terminal of GitPod.
+2. Using the same GitPod terminal, create a `Procfile` via the command of `echo web: python app.py > Procfile`.
+3. Next, enter the command of either `git add.` or `git add -A` and then `git commit -m` the new requirements and Procfile files respectively before finally executing a `git push` to the GitHub repository.
+4. Within the website of [Heroku](https://www.heroku.com), either Sign up or Log in where applicable.
+5. Once you have signed up or logged in on Heroku, the creation of a new application is done through the click of the 'Create New App' button within your dashboard. Then choose a unique name and set the region that is closest to you e.g. Europe.
+6. Within the dashboard of Heroku of your newly created application, click on "Deploy" > "Deployment method", then select "GitHub" and finally click the "Connect to GitHub" button.
+7. Search for your correct GitHub repository name that you have created and confirm the linking up through a click on the "Connect" button.
+8. Return back to your Heroku dashboard and click on "Settings" > "Reveal Config Vars".
+9. Set the following config vars as:
+
+| Key | Value |
+| ----------|--------- |
+| PORT | 5000 |
+| IP | 0.0.0.0 |
+| DEBUG | False |
+| MONGO_URI | USER_MONGODB_URI |
+| MONGO_DBNAME | USER_MONGODB_NAME |
+| Secret_Key | USER_SECRET_KEY |
 
 ## Fork a Repository
 
