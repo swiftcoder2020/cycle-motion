@@ -155,7 +155,7 @@ The next validation tool is to utilise the [W3C CSS Validation Service](https://
 
 ## Responsive Tools
 
-
+A website by the name of [Am I Responsive](http://ami.responsivedesign.is/) was utilised to give an indication into the responsiveness of how the project caters for the layout design within a range of devices. 
 
 ## User Stories
 
