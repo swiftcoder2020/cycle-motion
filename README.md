@@ -128,8 +128,60 @@
 
 # Technologies Utilised
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5 logo" width="50px" height="50px" />  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3 logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo"
+## Development Tools
+
+[GitHub](https://www.github.com/) :- this is a collaborative tool which consists of a community of developers and has been used to create the repository and store the coding of the project subsequent from being pushed via Git.
+
+[GitPod](https://www.gitpod.io/) :- an online Integrated Development Environment (IDE) editor utilised to create folders, files and code the website.
+
+[Git](https://www.git-scm.com/) :- a form of versioning control by way of utilising the terminal within Gitpod to commit to Git, then subsequently push to GitHub.
+
+[EmailJS](https://www.emailjs.com/) :- this is a client-side technology that helps to send emails.
+
+[Google Chrome Developer tools](https://www.google.com/intl/en_uk/chrome/) :- the feature within the browser was used to test both the code and the responsiveness of the website.
+
+[Mozilla Firefox Developer tools](https://www.mozilla.org/en-GB/firefox/new/) :- the feature within the browser was used to test both the code and the responsiveness of the website.
+
+[paint.net](https://www.getpaint.net/) :- was used to produce images of resized screenshots into the website for the readme.md.
+
+## Design
+
+[Balsamiq](https://www.balsamiq.com/) :- the software has been utilised whereby it is related to the creation of wireframes as part of the preparational work into the duration of the design process through the Cycle Motion milestone project.
+
+<!-- not decided yet between Bootstrap and Materialize but most likely to be the latter -->
+[Bootstrap v5](https://www.getbootstrap.com/)/[Materialize](https://www.materializecss.com) :- this is a CSS framework which is used to assist with making the design responsive whilst being complimentary with the styling of the website.
+
+[Google Fonts](https://fonts.google.com/) :- these were used to import the typography of the website into the stylesheet file and is utilised on all webpages.
+
+[Font Awesome](https://fontawesome.com/) :- these icons would be added for the purpose of 
+aesthetic appeal and UX design.
+
+[ezGIF](https://ezgif.com) :- this was used to create an animated gif file which in turn was converted to a favicon.
+
+[favicon](https://www.favicon.cc/) :- the website was used to create a favicon using the animated gif derived from ezGIF.
+
+## Languages
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5 logo" width="50px" height="50px" />  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3 logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px" /> 
+
+[Python](https://www.python.org) :-
+
+[JavaScript](https://www.javascript.com/) :- 
+
+[jQuery](https://www.jquery.com/) :- 
+
+Popper :- 
+
+CSS3 :- this is the current standard that is used to style HTML content of the website.
+
+HTML5 :- this is the current standard that is used for the markup structure of the website.
+
+## Database
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo"
 width="50px" height="50px" />
+
+[MongoDB](https://www.mongodb.com/) :- 
 
 # Project Bugs and Solutions
 
