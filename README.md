@@ -14,7 +14,7 @@
 
 ### **Responsive image of website**
 
-<!-- image of responsive cycle motion website -->
+<!-- image of responsive cycle motion website from amiresponsive -->
 
 **[Active link to Cycle Motion](#)**
 
@@ -150,42 +150,58 @@ This third milestone project signifies being at over the halfway point of the Fu
 
 [Mozilla Firefox Developer tools](https://www.mozilla.org/en-GB/firefox/new/) :- the feature within the browser was used to test both the code and the responsiveness of the website.
 
-<!-- utilised for the testing procedure -->
+<!-- utilised for the outcome of testing procedures -->
 [paint.net](https://www.getpaint.net/) :- was used to produce images of resized screenshots into the website for the readme.md.
 
 ## Design
 
 [Balsamiq](https://www.balsamiq.com/) :- the software has been utilised whereby it is related to the creation of wireframes as part of the preparational work into the duration of the design process through the Cycle Motion milestone project.
 
-<!-- not decided yet between Bootstrap and Materialize but most likely to be the latter -->
-[Bootstrap v5](https://www.getbootstrap.com/)/[Materialize](https://www.materializecss.com) :- this is a CSS framework which is used to assist with making the design responsive whilst being complimentary with the styling of the website.
-
 [Google Fonts](https://fonts.google.com/) :- these were used to import the typography of the website into the stylesheet file and is utilised on all webpages.
 
 <!-- not decided whether to apply font awesome into this website -->
-[Font Awesome](https://fontawesome.com/) :- these icons would be added for the purpose of 
-aesthetic appeal and UX design.
+<!-- [Font Awesome](https://fontawesome.com/) :- these icons would be added for the purpose of 
+aesthetic appeal and UX design. -->
 
 <!-- might not be needing this into the website -->
 <!-- [ezGIF](https://ezgif.com) :- this was used to create an animated gif file which in turn was converted to a favicon. -->
 
-[favicon](https://www.favicon.cc/) :- the website was used to create a favicon using the animated gif derived from ezGIF.
+[favicon](https://www.favicon.cc/) :- the website was used to create a favicon, a small image that is displayed within the tab of the internet browser.
 
 ## Languages
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5 logo" width="50px" height="50px" />  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3 logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px" /> 
 
-[Python](https://www.python.org) :-
+[Python](https://www.python.org) :- 
 
 [JavaScript](https://www.javascript.com/) :- 
-
-[jQuery](https://www.jquery.com/) :- 
-
-Popper :- 
 
 CSS3 :- this is the current standard that is used to style HTML content of the website.
 
 HTML5 :- this is the current standard that is used for the markup structure of the website.
+
+## Libraries
+
+<!-- not decided yet between Bootstrap and Materialize but most likely to be the latter -->
+<!-- [Bootstrap v5](https://www.getbootstrap.com/)/[Materialize](https://www.materializecss.com) :- this is a CSS framework which is used to assist with making the design responsive whilst being complimentary with the styling of the website. -->
+
+<!-- will this be used in Materialize? -->
+<!-- [jQuery](https://www.jquery.com/) :-  -->
+
+<!-- will this be used in Materialize? -->
+<!-- [Popper.js](https://www.popper.js.org/) :-  -->
+
+[Flask](https://www.palletsprojects.com/p/flask/) :- this is "a lightweight WSGI web application framework" that is written in Python.
+
+[Werkzeug](https://www.palletsprojects.com/p/werkzeug/) :- this is "a comprehensive WSGI web application library which has become one of the most advanced WSGI utility libraries." It is wrapped by Flask whereby it is "using it to handle the details of [the] Web Server Gateway Interface while providing more structure and patterns for defining powerful applications".
+
+[Jinja](https://www.palletsprojects.com/p/jinja/) :- this is "one of the most used template engines for Python" whereby it simplifies the creation of HTML webpages.
+
+[PyMongo](https://pymongo.readthedocs.io/en/stable/) :- this is the official driver that is used to connect to MongoDB via the Python language.
+
+[DNSPython](https://www.dnspython.org/) :- this is "a DNS toolkit for Python [whereby] it is used for high level classes [to] perform queries for data of a given name, type, and class, and return an answer set".
+
+[Flask-PyMongo](https://flask-pymongo.readthedocs.io/en/latest/) :- this "bridges Flask and PyMongo [whereby it] provides some convenience helpers". It is used to connect the app of Python/Flask to MongoDB.
 
 ## Database
 
@@ -215,6 +231,8 @@ The next validation tool is to utilise the [W3C CSS Validation Service](https://
 ## PEP8
 
 [PEP8](https://www.python.org/dev/peps/pep-0008) is a website that provides the styling conventions or best practices into the Python code which will be used within this project.
+
+[PEP8 Online](https://www.pep8online.com) is an online checker for PEP8 requirements to ensure that it is complying to conventions.
 
 ## Responsive Tools
 
