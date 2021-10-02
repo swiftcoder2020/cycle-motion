@@ -8,13 +8,13 @@
 
 ## Introduction
 
-
+<!-- need to think how to introduce the readme -->
 
 ## Demonstration
 
 ### **Responsive image of website**
 
-
+<!-- image of responsive cycle motion website -->
 
 **[Active link to Cycle Motion](#)**
 
@@ -64,6 +64,8 @@
    - [Acknowledgements](#acknowledgements)
 
 # Overview
+
+This third milestone project signifies being at over the halfway point of the Full Stack Development course with the Code Institute and I can only think of a perspective... look how far I've come and yet how much more progress I have to make before completing the course!
 
 
 
@@ -122,6 +124,7 @@
 ### Typography
 
 
+
 ### Icons
 
 
@@ -140,12 +143,14 @@
 
 [Git](https://www.git-scm.com/) :- a form of versioning control by way of utilising the terminal within Gitpod to commit to Git, then subsequently push to GitHub.
 
-[EmailJS](https://www.emailjs.com/) :- this is a client-side technology that helps to send emails.
+<!-- will this be incorporated into MS3? -->
+<!-- [EmailJS](https://www.emailjs.com/) :- this is a client-side technology that helps to send emails. -->
 
 [Google Chrome Developer tools](https://www.google.com/intl/en_uk/chrome/) :- the feature within the browser was used to test both the code and the responsiveness of the website.
 
 [Mozilla Firefox Developer tools](https://www.mozilla.org/en-GB/firefox/new/) :- the feature within the browser was used to test both the code and the responsiveness of the website.
 
+<!-- utilised for the testing procedure -->
 [paint.net](https://www.getpaint.net/) :- was used to produce images of resized screenshots into the website for the readme.md.
 
 ## Design
@@ -157,10 +162,12 @@
 
 [Google Fonts](https://fonts.google.com/) :- these were used to import the typography of the website into the stylesheet file and is utilised on all webpages.
 
+<!-- not decided whether to apply font awesome into this website -->
 [Font Awesome](https://fontawesome.com/) :- these icons would be added for the purpose of 
 aesthetic appeal and UX design.
 
-[ezGIF](https://ezgif.com) :- this was used to create an animated gif file which in turn was converted to a favicon.
+<!-- might not be needing this into the website -->
+<!-- [ezGIF](https://ezgif.com) :- this was used to create an animated gif file which in turn was converted to a favicon. -->
 
 [favicon](https://www.favicon.cc/) :- the website was used to create a favicon using the animated gif derived from ezGIF.
 
@@ -268,7 +275,6 @@ To clone a repository, the instructions are as follows:
 6. Change the directory to where you want your clone to go
 7. Type "git clone" and then paste the URL you copied in step 4
 8. Press Enter to generate your clone
-
 
 ## Generate a Local Clone
 
