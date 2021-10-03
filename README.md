@@ -1,6 +1,6 @@
 <div>
    <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0; padding-right: 15px;">
-   <img src="learning-people-logo.png" style="margin: 0; padding-left: 15px; width: auto; height: 88px;">
+   <img src="static/images/learning-people-logo.png" style="margin: 0; padding-left: 15px; width: auto; height: 88px;">
 </div>
 
 # Cycle Motion
