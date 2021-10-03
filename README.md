@@ -43,6 +43,7 @@
    - [Development Tools](#development-tools)
    - [Design](#design)
    - [Languages](#languages)
+   - [Libraries](#libraries)
    - [Database](#database)
 4. [Project Bugs and Solutions](#project-bugs-and-solutions)
 5. [Testing](#testing)
