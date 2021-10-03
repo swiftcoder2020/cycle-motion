@@ -119,8 +119,9 @@ This third milestone project signifies being at over the halfway point of the Fu
 
 ### Colour Palette
 
+![Cycle Motion Colour Palette](static/images/cycle-motion-colour-palette.png)
 
-
+Source: [Coolors](https://coolors.co/7a918d-93b1a7-99c2a2-c5edac-dbfeb8)
 ### Typography
 
 
@@ -160,8 +161,7 @@ This third milestone project signifies being at over the halfway point of the Fu
 [Google Fonts](https://fonts.google.com/) :- these were used to import the typography of the website into the stylesheet file and is utilised on all webpages.
 
 <!-- not decided whether to apply font awesome into this website -->
-<!-- [Font Awesome](https://fontawesome.com/) :- these icons would be added for the purpose of 
-aesthetic appeal and UX design. -->
+<!-- [Font Awesome](https://fontawesome.com/) :- these icons would be added for the purpose of aesthetic appeal and UX design. -->
 
 <!-- might not be needing this into the website -->
 <!-- [ezGIF](https://ezgif.com) :- this was used to create an animated gif file which in turn was converted to a favicon. -->
@@ -185,8 +185,7 @@ HTML5 :- this is the current standard that is used for the markup structure of t
 <!-- not decided yet between Bootstrap and Materialize but most likely to be the latter -->
 <!-- [Bootstrap v5](https://www.getbootstrap.com/)/[Materialize](https://www.materializecss.com) :- this is a CSS framework which is used to assist with making the design responsive whilst being complimentary with the styling of the website. -->
 
-<!-- will this be used in Materialize? -->
-<!-- [jQuery](https://www.jquery.com/) :-  -->
+[jQuery](https://www.jquery.com/) :- 
 
 <!-- will this be used in Materialize? -->
 <!-- [Popper.js](https://www.popper.js.org/) :-  -->
