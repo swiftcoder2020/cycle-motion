@@ -8,7 +8,7 @@
 
 ## Introduction
 
-<!-- need to think how to introduce the readme -->
+<!-- need/would like to think how to introduce the readme -->
 
 ## Demonstration
 
@@ -66,9 +66,9 @@
 
 # Overview
 
-This third milestone project signifies being at over the halfway point of the Full Stack Development course with the Code Institute and I can only think of a perspective... look how far I've come and yet how much more progress I have to make before completing the course!
+This third milestone project signifies being at over the halfway point into the Diploma of the Full Stack Website Development course with the Code Institute in association with the Learning People and reflectively I came to realise a positive perspective in my coding and programming journey to undertake a career change which really resonates with me whilst typing up this README.md file and that is:- look how far I've come and yet how much more progress I can make or to continue with before completing the course!
 
-
+Upon approaching the inception into this website, whereby the continued learning experience progressively explored into the fundamentals of the popular programming language of Python and the Back-end Development modules. This focused on utilising the Python library of the Flask Framework, Jinja templating language, deploying from Heroku, looking into data and databases how Python connects/links in with either MySQL or MongoDB.
 
 # User Experience Design
 
