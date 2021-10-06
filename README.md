@@ -325,7 +325,11 @@ The following steps should be processed in order to
 
 ## Acknowledgements
 
-I would first and foremost like to thank Tim Nelson at the Code Institute for providing a fantastic series of videos into tutorial walkthrough of the Task Manager project
+I would first and foremost like to thank the sterling work of Tim Nelson at the Code Institute for providing a fantastic series of tutorial walkthrough videos into the mini-project of the **Task Manager application** as this has inspired me to base or implement this within the construction of the milestone project and comprehending the methodology of the CRUD operations.
+
+Secondly I would like to thank my mentor *Marcel Mulders* for his constant guiding help and support.
+
+Lastly I would also like to give my grateful thanks to two of my amazing cheerleaders in Suzy Bennett & Emanuel 'Manni' Silva for their daily/weekly support in our little study group.
 
 # Disclaimer
 
