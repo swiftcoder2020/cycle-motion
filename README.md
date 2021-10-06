@@ -325,7 +325,8 @@ The following steps should be processed in order to
 
 ## Acknowledgements
 
+I would first and foremost like to thank Tim Nelson at the Code Institute for providing a fantastic series of videos into tutorial walkthrough of the Task Manager project
 
 # Disclaimer
 
-This website has been created for educational purposes only.
+This website project has been constructed for educational purposes only.
