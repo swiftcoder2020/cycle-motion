@@ -63,6 +63,7 @@
    - [Contents](#contents)
    - [Media](#media)
    - [Acknowledgements](#acknowledgements)
+8. [Disclaimer](#disclaimer)
 
 # Overview
 
@@ -324,3 +325,7 @@ The following steps should be processed in order to
 
 ## Acknowledgements
 
+
+# Disclaimer
+
+This website has been created for educational purposes only.
