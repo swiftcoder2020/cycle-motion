@@ -77,7 +77,11 @@ Upon approaching the inception stage into this website, the continued learning e
 
 ## Project Goals
 
-The goal of the project is based on the ability to allow visitors or users to the website which provides the opportunity to engage as an online community by sharing data of their own knowledge or experience into bicycles in differing levels. This data would be stored as a dataset of a common nature within a database of choice in relation to a subject, which in this case is cycling. It also represents the commencing point of incorporating the already established knowledge & skills of the front-end i.e. the utilisation of the languages of HTML, CSS & JavaScript; with the learning progression of the back-end to construct the website for the first time in my coding journey, which the terminology is described as a full-stack. Finally it aims to provide the value of utilising the website which they are conveniently able to access all the data stored that is shared by other members to benefit in making a decision based on a choice of bicycles available to purchase.
+The goal of the project is centred on the ability to allow visitors or users to the website which provides the opportunity to engage as an online community by sharing data of their own knowledge and/or experience in differing levels, whereby it is based on pre-existing data of road bicycles. This data would be stored as a dataset of a common nature within a database of choice in relation to a subject, which in this case is cycling. 
+
+It also aims to provide the value of utilising the website which they are conveniently able to access all the data stored of reviews that is shared by other members to benefit in making a decision based on a choice of bicycles available to purchase.
+
+Finally it represents the commencing point of incorporating the already established knowledge & skills of the front-end i.e. the utilisation of the languages of HTML, CSS & JavaScript; with the learning progression of the back-end to construct the website for the first time in my coding journey, which the terminology is described as a full-stack development. 
 
 ## Strategy
 
