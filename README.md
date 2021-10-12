@@ -85,7 +85,15 @@ Finally it represents the commencing point of incorporating the already establis
 
 ## Strategy
 
+Given that this third project will switch to focus on products in comparison to previous ones, I felt it to be a worthwhile approach by including the high level considerations within this plane. This would factor in the value of the products which is yet to be explored as the intention is to provide data as content into road bicycle models of 2021/22 hence the existence of the application. There is a likelihood that visitors and users alike will as an act be researching or have already recognised the perceived value of the product to use it to share opinions and viewpoints amongst others in their experience of it, perhaps raising brand awareness in discussions. 
 
+This will form the basis of my strategy for this website by demonstrating during the construction, the skills and knowledge obtained within the Python and Back-end Development modules, whilst keeping content to a minimal with large images displayed as a strong emotive item and utilising the CRUD (aka Create, Read, Update and Delete) Operations which will form the core basis into the construction.
+
+To summarise the website project's goals, it will:
+
+* Demonstrate the implementation of acquiring a new knowledge & skill in Python, Flask Framework, Jinja templating, deploying from Heroku and utilising the database of MongoDB whilst supplementing the experience of HTML, CSS & JavaScript to the design and development of the project.
+* Provide the functionality of the CRUD Operations to allow visitors or users alike to view the availability of road bicycles currently on the market, explore the reviews of customers into the product and contribute by adding their own review.
+* To construct a website that elicits a positive user experience in a way that it encourages new/returning visitors to continue road bicycles in an engaging way that is useful to them.
 
 ## Scope
 
