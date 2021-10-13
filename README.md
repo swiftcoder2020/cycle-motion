@@ -103,7 +103,24 @@ To summarise the website project's goals, it will:
 
 ### Features
 
+These items are above are determined in the below table:
+*(scale is judged whereby 0 is insignificant and 5 represents as very important)*
 
+| Item | Description                       | Importance | Viability | Score |
+| ---- | --------------------------------- | ---------- | --------- | ----- |
+| 1.   |      |           |          |      |
+| 2.   |      |           |          |      |
+| 3.   |      |           |          |      |
+| 4.   |      |           |          |      |
+| 5.   |      |           |          |      |
+| 6.   |      |           |          |      |
+| 7.   |      |           |          |      |
+| 8.   |      |           |          |      |
+| 9.   |      |           |          |      |
+| 10.  |      |           |          |      |
+| 11.  |      |           |          |      |
+| 12.  |      |           |          |      |
+| 13.  |      |           |          |      |
 
 #### Future Features
 
