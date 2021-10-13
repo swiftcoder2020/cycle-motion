@@ -123,7 +123,7 @@ To summarise the website project's goals, it will:
 
 ### Sitemap
 
-
+![Cycle Motion Site Structure](static/images/cycle-motion-sitemap.png)
 
 ## Skeleton
 
