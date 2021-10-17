@@ -22,4 +22,4 @@ if __name__ == "__main__":
             # converts the port into an integer
             port=int(os.environ.get("PORT")),
             # prior to actual deployment, update this to debug=False
-            debug=True)
+            debug=False)
