@@ -16,9 +16,9 @@ It was no surprise to learn of a boom in the sport of cycling last year from a s
 
 ### **Responsive image of website**
 
-<!-- image of responsive cycle motion website from amiresponsive -->
+<!-- actual image of responsive cycle motion website from amiresponsive -->
 
-**[Active link to Cycle Motion](#)**
+**[Active link to Cycle Motion](https://cycle-motion.herokuapp.com/)**
 
 ## Table of Contents
 
