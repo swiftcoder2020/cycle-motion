@@ -8,9 +8,13 @@
 
 ## Introduction
 
-I would like to express by conveying and hopefully extending a cordial welcome to you all into this third milestone project, which the theme is based on one of my passions as a regular hobby and that is the sport of cycling. This is so much so, such that I am deeply yet strongly indebted to it for getting through the last nearly two years and the experience has especially contributed to the milestone achievement of the 170 miles route into the [Way of the Roses](https://www.wayoftheroses.info), from Morecambe to Bridlington within two days (most people would do it within three days which is admirable!). The purpose of that was to fundraise money for [Hearing Dogs for Deaf People](https://www.hearingdogs.org.uk/) back in June 2019 to help deaf recipients be alerted to important and life-saving sounds, reduce a sense of isolation by having a loyal companion and friend, and in addition increase their sense of independency with confidence, especially more so during the pandemic.
+I would like to express the gesture of conveying and hopefully extending a cordial welcome to you all into this third milestone project, whereby the theme is based on one of my passions that I regularly undertake as a hobby which is the sport of cycling.
 
-It was no surprise to learn the effects of a boom in cycling last year from a wellbeing and environmental perspective as supported with sources from 2020 by [The Guardian](https://www.theguardian.com/lifeandstyle/2020/may/23/two-wheels-good-bike-sales-soar-as-uk-takes-to-cycling) and also [The BBC](https://www.bbc.com/future/bespoke/made-on-earth/the-great-bicycle-boom-of-2020.html) to the extent that the sales into the levels of demand had outstripped supply as reported back earlier in 2021 through [The Guardian](https://www.theguardian.com/business/2021/mar/21/cycling-boom-rolls-on-amid-struggle-to-meet-uk-demand-during-covid). This in my view, is fantastic news for the 'global warming' environment ahead of the COP26 and its climate with the hope of reducing the emissions. It is also very positively encouraging for us all to recognise the emphasis of the great benefits towards our mental health & wellbeing in general as well as potentially leading healthier, yet greener, economically friendly lives by utilising a method of transportation that is cost-effective (inspiration should be sourced through the lifestyle and infrastructure of the Netherlands) which could contribute to filling keen cyclists with adventure and challenges which is simple to maintain!
+This is so much so, such that I am deeply yet strongly indebted to it for getting through the last nearly two years in maintaining my overall wellbeing and it was of no surprise to learn that this equally would reflect the consumer market, given the effects of a boom in cycling last year from a public health and environmental perspective. These are supported with sources from 2020 by [The Guardian](https://www.theguardian.com/lifeandstyle/2020/may/23/two-wheels-good-bike-sales-soar-as-uk-takes-to-cycling) and also [The BBC](https://www.bbc.com/future/bespoke/made-on-earth/the-great-bicycle-boom-of-2020.html) to the extent that the sales into the levels of demand had outstripped supply as reported back earlier in 2021 through [The Guardian](https://www.theguardian.com/business/2021/mar/21/cycling-boom-rolls-on-amid-struggle-to-meet-uk-demand-during-covid). 
+
+This is fantastic news for the global warming environment ahead of the COP26 and its climate with the hope of reducing the emissions. It is also very positively encouraging for us all to recognise the emphasis of the great benefits it has towards our mental health & wellbeing, significantly more so in these current times as well as potentially leading healthier, yet greener, economically friendly lives. By utilising this method of transportation, it would offer the means of being cost-effective if used regularly i.e. no fuel required other than food & hydration for commuting purposes (a suggested source of inspiration is through the lifestyle and infrastructure of the Netherlands) or alternatively it could contribute to filling new/keen cyclists with adventure and challenges as a regular hobby which is simple to maintain! For more benefits, see this link from [Cycling Weekly](https://www.cyclingweekly.com/news/latest-news/benefits-of-cycling-334144).
+
+My cycling experience has especially contributed to the milestone achievement into the 170 miles route of the [Way of the Roses](https://www.wayoftheroses.info), from Morecambe to Bridlington within two days (most people would do it within three days which is admirable!). The purpose of that was to fundraise money for [Hearing Dogs for Deaf People](https://www.hearingdogs.org.uk/) back in June 2019 to help deaf recipients be alerted to important and life-saving sounds, reduce a sense of isolation by having a loyal companion and friend, and in addition increase their sense of independency with confidence, especially more so during the pandemic. Prior to this, I had been looking to obtain a new bicycle and remember the experience of this from a customer's viewpoint, yet this has generated an idea to utilise the learning module to construct it from a developer's end.
 
 ## Demonstration
 
@@ -71,7 +75,7 @@ It was no surprise to learn the effects of a boom in cycling last year from a we
 
 This third milestone project signifies being at over the halfway point into the Diploma of the Full Stack Website Development course with the Code Institute in association with the Learning People and reflectively I came to realise a positive perspective in this coding and programming journey, which really resonates with me whilst typing up this README.md documentation file and that is:- look how far I've progressed with the knowledge of the skillset and yet how much more advancement I can continue to make before completing the course!
 
-Upon approaching the inception stage into this web application, which is transitioning from constructing a website, the continued learning experience previously had advanced progressively from the Interactive Front-end Development module to explore deeply into the fundamentals of Python and the Back-end Development. This focused on the core concepts of the popular programming language, utilising one of the external libraries of Python such as the Flask Framework, the templating language of Jinja and deploying from Heroku. It also represented an opportunity in re-familiarising myself into some aspects of Back-end Development.
+Upon approaching the inception stage into this web application, which is transitioning from constructing a website, the continued learning experience previously had advanced progressively further from the Interactive Front-end Development module to explore deeply into the fundamentals of Python and the Back-end Development. This focused on the core concepts of the popular programming language, utilising one of the external libraries of Python such as the Flask Framework, the templating language of Jinja and deploying from Heroku. It also represented an opportunity in re-familiarising myself into some aspects of Back-end Development.
 
 In essence, the project envisages to be based on being an interactive reviews and recommendations site in which it aims to target cyclists of all levels of abilities & experience, and also of various disciplines to contribute their viewpoints on bicycles. It depicts the commencing point of incorporating the already established knowledge & skills of the front-end (design and interaction) i.e. the utilisation of the languages of HTML, CSS & JavaScript; with the addition of the learning progression into the back-end (database development & integration) to construct the website for the first time in my coding journey, which the terminology is described as a full-stack development.
 
@@ -79,25 +83,69 @@ In essence, the project envisages to be based on being an interactive reviews an
 
 ## Project Goals
 
-The core goal of the project is solely centred on the ability to demonstrate the understanding of back-end development, whereby it aims to create the experience and subsequently provide the opportunity in allowing interested visitors or regular users alike to utilise the web application in various ways such as: searching for various bicycles which is based on pre-existing data or those that has been shared, also sharing data into their own cycling knowledge and/or experience of differing levels through comments and ratings, and finally to upload details of bicycles as part of their own recommendation.
+The core goal of the project is solely centred on the ability to demonstrate the understanding of back-end development with the use in the language of Python, whereby it aims to create the experience and subsequently provide the opportunity in allowing interested visitors or regular users alike to explore a range of bicycles currently available on the market which would be stored and accessed via a database.
 
-The purpose into this goal is to assist the online community environment in their research with the experience of discovering the value of the products which is yet to be explored e.g. any discipline of bicycles which would be new to the market during the autumn (fall) season or throughout the year in that it is reasonably new, whereby some reviews has been established yet could still be perceived as needing room for improvement to enhance that value and it has not reached in being fully recognised as a valuable product.
+The purpose into the web application's goals is to assist the online community environment in their research with the experience of discovering the value into the products that is yet to be explored or has gained full recognition and this is established through the core value in providing reviews, ratings and recommendations. The aim is to facilitate for opinions to be shared through the contribution of the target audience of cyclists such as strengths against flaws to allow the process of comparing and contrasting. In addition, it would cater in viewing the reviews of other users or to share their own review(s) to perhaps enhance that value as it could be perceived in needing room for improvement therefore the objective is to provide a variety of valuable products based on the number of reviews, recommendations and also levels of ratings. Finally details of a recommendation(s) would be uploaded within the database to allow them to be suggested which aims to be encouraged or welcomed.
 
-This project aims to provide the value of conveniently being able to access all the data stored that has been shared by the administrator as well as visitors and users, and in particular the core value would be the reviews and/or recommendations which is equally stored within the database and contributed from other cycling members that can be explored. This would help the target audience to benefit in making a decision, based on a choice of bicycles available to potentially purchase on the basis of the best reviews, ratings and price.
-
-Finally, it will also utilise the learning experience of the Python language, Flask Framework, Jinja templating and the development of a chosen database (MySQL - relational vs MongoDB - non-relational), which will form the crux of the project. The purpose of this is to store data of a common nature that will allow users to manage the dataset by utilising the methodology of the CRUD Operations and essentially progress into constructing what the terminology is known as a full-stack web application which is deployed from Heroku.
+With these in mind, the outcome of the project is to help the target audience to benefit in contemplating the information or making a decision, based on a choice of bicycles available to potentially purchase on the basis of their criterias.
 
 To summarise the website project's goals as an application, it will:
 
 * Demonstrate the implementation from acquiring a new knowledge & skill in Python and the development of the back-end language, tool & technologies whilst supplementing the experience of the front-end e.g. HTML, CSS & JavaScript.
-* Construct an application that elicits a positive user experience whereby it encourages new/returning visitors to continue with their interest or hobby, in an interactive way with an outcome of it being resourceful to them and that they have gained value from it as a user.
-* Ensure that the content is viewable/accessible publically which would encourage the usage of the application by registering to enable the ability to add reviews, ratings and the recommended products.
-* Provide the functionality of the CRUD Operations to allow visitors or users alike to be able to manage their data once registered on the web application with ease, then subsequently logged in and out which enables the storage and retrieval of their data easily.
+* Construct aa web application that elicits a positive user experience whereby it encourages new/returning visitors to continue with their interest or hobby, in an interactive yet resourceful way to have gained value from it.
+* Ensure that the content is viewable/accessible publically which would encourage the usage of the application by registering to enable the ability to contribute reviews, ratings and the recommended products.
+
+
+
+
+
+
+
 * Construct a web application that is fully responsive which reflects the majority of device types and screen sizes which is functionally easy to use.
 
 ## Strategy
 
-Given that this third project will shift to focus on the subject of reviews into products in comparison to previous milestone projects, I felt it to be a worthwhile approach to include the high level considerations within this plane due to its relevancy. This would factor in discovering the product's value, hence the existence of the application and takes into consideration the likelihood that visitors and users alike will as an act be researching or as a customer, have already recognised the perceived value of the product. They will then use it to share opinions and viewpoints amongst others in their experience of it, perhaps raising brand awareness or the quality of the product in discussions based on the budget and the strategy aims to cater for this.
+Given that this third project will shift to focus on creating the experience of allowing cyclists to contribute their reviews and/or recommendations into bicycle models of 2021/22
+
+
+
+
+
+
+
+  
+
+
+
+
+current market within the autumn (fall) season before the cycling season commences
+
+
+
+
+ 
+
+
+, I felt in comparison to previous milestone projects
+
+
+it would be a worthwhile approach to include the high level considerations 
+
+questions content
+
+
+greater motivation in discovering the product's value,
+
+
+
+As a regular cyclist, I would love to use an application where
+
+
+
+within this plane due to its relevancy. This would factor in discovering the product's value, 
+
+
+ and takes into consideration the likelihood that visitors and users alike will as an act be researching or as a customer, have already recognised the perceived value of the product. They will then use it to share opinions and viewpoints amongst others in their experience of it, perhaps raising brand awareness or the quality of the product in discussions based on the budget and the strategy aims to cater for this.
 
 It would also factor in questions concerning the content whereby the intention is to provide data based on road bicycle models of 2021/22 within the current market including e.g. specifications into the product, images, ratings and reviews and/or recommendations. This is to be considered through the development of the database design model whereby the functionality of the database would be in the form of utilising the methodology of the CRUD (aka Create, Read, Update and Delete) Operations, which will form the core basis into the construction in that users or visitors alike would be able to manipulate their data and equally the administrator as well. In effect, some content as data would need to be tracked and catalogued in an intuitive way i.e. does the search match up with the data extracted?
 
